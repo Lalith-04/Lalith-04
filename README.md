@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C22F0&height=190&section=header&text=Lalith Kishore%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C22F0&height=190&section=header&text=LalithKishore%20&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 </div>
 
 <div align="center">
