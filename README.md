@@ -116,7 +116,7 @@ Transforming ideas into powerful, scalable applications while continuously learn
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3d1f78a4-7c5e-4b12-8a31-2d3f4a1c8b5e" width="100%" alt="Tutor AI Demo" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/500x280/2196F3/FFFFFF?text=🤖+Tutor+AI+Dashboard" width="100%" alt="Tutor AI Demo" style="border-radius: 10px;" />
 </div>
 
 **🎯 Project Vision**  
@@ -155,7 +155,7 @@ AI Engine: OpenAI GPT-4 + Custom embeddings
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f2a1b4d-6c3e-4d12-9a51-7e8d9f5a2b6c" width="100%" alt="E-Attendance Dashboard" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/500x280/28A745/FFFFFF?text=📋+E-Attendance+System" width="100%" alt="E-Attendance Dashboard" style="border-radius: 10px;" />
 </div>
 
 **🎯 Project Vision**  
@@ -196,7 +196,7 @@ Security: bcrypt + JWT + Rate limiting
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9e4f78a2-8c5e-4b12-7a31-6d8f4e1c2d3f" width="100%" alt="Intern Management Interface" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/500x280/17A2B8/FFFFFF?text=👥+Intern+Management" width="100%" alt="Intern Management Interface" style="border-radius: 10px;" />
 </div>
 
 **🎯 Project Vision**  
@@ -235,7 +235,7 @@ Auth: JWT + Refresh tokens + OAuth2
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7c5f84a6-9d2e-4e12-8a41-3f9d6e8c4b5a" width="100%" alt="Ticketing System Dashboard" style="border-radius: 10px;" />
+  <img src="https://via.placeholder.com/500x280/FFC107/FFFFFF?text=🎫+Support+Ticketing" width="100%" alt="Ticketing System Dashboard" style="border-radius: 10px;" />
 </div>
 
 **🎯 Project Vision**  
@@ -274,22 +274,22 @@ Integration: Email APIs + Slack webhooks
   <table width="90%">
     <tr>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/1f2a5c8d-9e4b-4c12-8a31-6f7d8e9f0a1b" width="60" /><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="60" /><br>
         <strong>User-Centric Design</strong><br>
         <sub>Every feature is crafted with the end-user in mind</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/2g3b6d9e-af5c-5d23-9b42-7g8e9f0a2c3d" width="60" /><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Building%20Construction.png" width="60" /><br>
         <strong>Scalable Architecture</strong><br>
         <sub>Built to grow with your business needs</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/3h4c7e0f-bg6d-6e34-ac53-8h9f0a3d4e5f" width="60" /><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="60" /><br>
         <strong>Performance First</strong><br>
         <sub>Optimized for speed and efficiency</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/4i5d8f1g-ch7e-7f45-bd64-9i0a4e5f6g7h" width="60" /><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="60" /><br>
         <strong>Security Focused</strong><br>
         <sub>Enterprise-grade security standards</sub>
       </td>
